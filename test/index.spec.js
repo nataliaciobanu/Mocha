@@ -1,4 +1,6 @@
 const assert = require('assert');
+const {expect} = require ('chai');
+
 const {sum, mult} = require('../index.js');
 
 describe('function sum', () => {
