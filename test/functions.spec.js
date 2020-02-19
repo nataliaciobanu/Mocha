@@ -1,4 +1,5 @@
 const assert = require('assert');
+//const {expect} = require('chai');
 const {sum, mult, power, isAdult} = require('../functions.js');        //import from functions.js
 
 describe('function sum', () => {
